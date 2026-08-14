@@ -10,50 +10,7 @@ El objetivo de este repositorio es documentar mi proceso de aprendizaje, guardar
 
 Curso gratuito de Python impartido por Píldoras Informáticas, que parte desde cero y va avanzando por los conceptos fundamentales del lenguaje hasta temas más avanzados como la programación orientada a objetos, manejo de ficheros y excepciones.
 
-> 📺 Canal de YouTube: [Píldoras Informáticas](https://www.youtube.com/c/P%C3%ADldorasInformaticas)
-
----
-
-## 🗂️ Estructura del repositorio
-
-```
-├── 01-introduccion/
-├── 02-variables-tipos-datos/
-├── 03-operadores/
-├── 04-estructuras-control/
-├── 05-bucles/
-├── 06-funciones/
-├── 07-estructuras-datos/        # listas, tuplas, diccionarios, sets
-├── 08-cadenas-strings/
-├── 09-ficheros/
-├── 10-excepciones/
-├── 11-poo/                      # programación orientada a objetos
-├── 12-modulos-paquetes/
-├── 13-proyectos/                # mini proyectos y ejercicios finales
-└── README.md
-```
-
-> La estructura se irá ampliando a medida que avance en el curso.
-
----
-
-## ✅ Progreso
-
-- [x] Introducción y entorno de trabajo
-- [x] Variables y tipos de datos
-- [ ] Operadores
-- [ ] Estructuras de control (if / else)
-- [ ] Bucles (for / while)
-- [ ] Funciones
-- [ ] Listas, tuplas, diccionarios y sets
-- [ ] Cadenas de texto
-- [ ] Manejo de ficheros
-- [ ] Excepciones
-- [ ] Programación Orientada a Objetos
-- [ ] Módulos y paquetes
-- [ ] Proyectos finales
-
----
+> 📺 Canal de YouTube: [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 
 ## 🛠️ Requisitos
 
