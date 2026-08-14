@@ -12,6 +12,16 @@ Curso gratuito de Python impartido por Píldoras Informáticas, que parte desde 
 
 > 📺 Canal de YouTube: [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 
+## 🗂️ Estructura del repositorio
+├── 01-Primeros_Pasos_Python/
+├── 02-Condicionales/
+├── 03-Bucles/
+├── 04-Generadores/
+├── Ejercicios/
+└── README.md
+
+La estructura se irá ampliando a medida que avance en el curso.
+
 ## 🛠️ Requisitos
 
 - [Python 3.x](https://www.python.org/downloads/)
