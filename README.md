@@ -32,8 +32,7 @@ La estructura se irá ampliando a medida que avance en el curso.
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/EstebanRodriguezGutierrezDEV/Python---Desde-0.git
 ```
 
 Ejecuta cualquier archivo de práctica con:
