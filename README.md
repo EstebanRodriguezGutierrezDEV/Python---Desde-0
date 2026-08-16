@@ -18,6 +18,7 @@ Curso gratuito de Python impartido por Píldoras Informáticas, que parte desde 
 ├── 03-Bucles/
 ├── 04-Generadores/
 ├── 05-Excepciones/
+├── 06-POO/
 ├── Ejercicios/
 └── README.md
 
