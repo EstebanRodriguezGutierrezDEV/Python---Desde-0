@@ -34,8 +34,9 @@ class Moto(Vehiculos):
     def estado(self):
         print(f"Marca: {self.marca}\nModelo: {self.modelo}\nAcelera: {self.acelera}\nFrena: {self.frena}\nEnmarcha: {self.enmarcha}\n{self.hcaballito}")
 
-class VElectricos():
-    def __init__(self):
+class VElectricos(Vehiculos):
+    def __init__(self, marca, modelo):
+        super().__init__(marca, modelo)
         self.autonomia = 100
 
     def cargarEnergia(self):
@@ -57,7 +58,7 @@ print(miFurgoneta.cargada(True))
 
 print("-------------------------------------")
 
-class BicicletaElectrica(Vehiculos, VElectricos):
+class BicicletaElectrica(VElectricos): #Se le da mas importancia a los metodos del primer atributo
     pass
 
 miBici = BicicletaElectrica("Orbea","HC1030")
