@@ -1,33 +1,47 @@
-# 🐍 Python - Curso Píldoras Informáticas
+# 🐍 Python - Desde 0
 
-Repositorio con mis prácticas, ejercicios y apuntes personales realizados mientras sigo el **curso de Python de [Píldoras Informáticas](https://www.youtube.com/c/P%C3%ADldorasInformaticas)** en YouTube.
+Repositorio con mis prácticas, ejercicios y apuntes personales realizados mientras aprendo **Python desde cero**, cubriendo desde la sintaxis básica hasta temas más avanzados como programación orientada a objetos, manejo de archivos, serialización e interfaces gráficas.
 
 El objetivo de este repositorio es documentar mi proceso de aprendizaje, guardar el código de cada práctica y tener un histórico de mi evolución con el lenguaje.
 
 ---
 
-## 📌 Sobre el curso
+## 📌 Sobre el repositorio
 
-Curso gratuito de Python impartido por Píldoras Informáticas, que parte desde cero y va avanzando por los conceptos fundamentales del lenguaje hasta temas más avanzados como la programación orientada a objetos, manejo de ficheros y excepciones.
+Este proyecto recoge ejercicios y ejemplos organizados por bloques temáticos, siguiendo una progresión lógica de aprendizaje: desde los primeros pasos con Python hasta conceptos más avanzados como paquetes distribuidos e interfaces gráficas.
 
-> 📺 Canal de YouTube: [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
+---
 
 ## 🗂️ Estructura del repositorio
-├── 01-Primeros_Pasos_Python/
-├── 02-Condicionales/
-├── 03-Bucles/
-├── 04-Generadores/
-├── 05-Excepciones/
-├── 06-POO/
-├── Ejercicios/
-└── README.md
 
-La estructura se irá ampliando a medida que avance en el curso.
+```
+├── 01_Primeros_Pasos_Python/     # Sintaxis básica, variables y tipos de datos
+├── 02_Condicionales/             # Estructuras de control condicional (if, elif, else)
+├── 03_Bucles/                    # Bucles for y while
+├── 04_Generadores/               # Generadores y expresiones generadoras
+├── 05_Excepciones/               # Manejo de errores y excepciones
+├── 06_POO/                       # Programación Orientada a Objetos
+├── 07_Métodos_de_cadenas/        # Métodos y manipulación de strings
+├── 08_Modulos/                   # Creación e importación de módulos
+├── 09_Paquetes/                  # Organización de código en paquetes
+├── 10_Paquetes_Distribuidos/     # Distribución y publicación de paquetes
+├── 11_Manejo_de_Archivos/        # Lectura y escritura de archivos
+├── 12_Serializacion/             # Serialización de datos (JSON, pickle, etc.)
+├── 13_Interfaces_Graficas/       # Interfaces gráficas (GUI)
+├── Ejercicios/                   # Ejercicios prácticos adicionales
+└── README.md
+```
+
+> La estructura se irá ampliando a medida que se incorporen nuevos temas.
+
+---
 
 ## 🛠️ Requisitos
 
 - [Python 3.x](https://www.python.org/downloads/)
 - (Opcional) Un editor de código como [VS Code](https://code.visualstudio.com/) o [PyCharm](https://www.jetbrains.com/pycharm/)
+
+---
 
 ## ▶️ Cómo ejecutar los ejercicios
 
@@ -37,7 +51,7 @@ Clona el repositorio:
 git clone https://github.com/EstebanRodriguezGutierrezDEV/Python---Desde-0.git
 ```
 
-Ejecuta cualquier archivo de práctica con:
+Accede a la carpeta y ejecuta cualquier archivo de práctica con:
 
 ```bash
 python nombre_del_archivo.py
@@ -47,14 +61,7 @@ python nombre_del_archivo.py
 
 ## 📖 Notas personales
 
-En cada carpeta se incluyen, además del código, pequeños comentarios o `README.md` propios con apuntes sobre los conceptos aprendidos en ese bloque del curso.
-
----
-
-## 🙌 Créditos
-
-- Curso original impartido por **Píldoras Informáticas** en YouTube.
-- Todo el código de este repositorio es de elaboración propia como práctica personal siguiendo el curso.
+En cada carpeta se incluyen, además del código, pequeños comentarios o notas propias sobre los conceptos aprendidos en ese bloque temático.
 
 ---
 
