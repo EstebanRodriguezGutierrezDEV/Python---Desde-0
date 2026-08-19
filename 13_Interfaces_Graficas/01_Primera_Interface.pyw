@@ -16,4 +16,6 @@ miFrame.config(bd=35)#Esto es el borde
 miFrame.config(relief="groove")#Esto es el tipo de borde
 miFrame.config(cursor="pirate")
 
+miLabel=Label(miFrame,text="Ventana de pruebas")
+
 raiz.mainloop()#Esta instruccion debe estar siempre al final
