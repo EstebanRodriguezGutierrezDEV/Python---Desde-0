@@ -7,6 +7,7 @@ def even_or_odd(number):
     else:
         return "Odd"
 
+
 even_or_odd(1)
 even_or_odd(24)
 even_or_odd(111)

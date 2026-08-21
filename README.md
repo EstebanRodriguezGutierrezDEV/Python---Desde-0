@@ -28,16 +28,21 @@ Este proyecto recoge ejercicios y ejemplos organizados por bloques temáticos, s
 ├── 10_Paquetes_Distribuidos/     # Configuración de paquetes distribuibles
 ├── 11_Manejo_de_Archivos/        # Lectura y escritura de archivos de texto
 ├── 12_Serializacion/             # Serialización de datos y objetos
+│   ├── Serializacion1/           # Serialización básica
+│   ├── Serializacion2/           # Serialización de objetos
+│   └── Serializacion3/           # Información permanente
 ├── 13_Interfaces_Graficas/       # Interfaces gráficas con Tkinter
 ├── 14_BBDD/                      # Bases de datos SQLite y operaciones CRUD
+├── 15_Funciones/                 # Funciones lambda, filter y map
+├── 16_Expresiones_Regulares/     # Expresiones regulares (regex)
+├── 17_Decoradores/               # Decoradores en Python
+├── 18_Documentacion/             # Documentación de código y pruebas
 ├── Ejercicios/                   # Ejercicios prácticos adicionales
 │   ├── 7kyu/                     # Retos de Codewars de nivel 7 kyu
 │   ├── 8kyu/                     # Retos de Codewars de nivel 8 kyu
 │   └── PildorasInformaticas/     # Ejercicios complementarios
 └── README.md
 ```
-
-> La estructura se irá ampliando a medida que se incorporen nuevos temas y ejercicios.
 
 ---
 
@@ -77,14 +82,20 @@ Los archivos `.pyw` de `13_Interfaces_Graficas` pueden ejecutarse con Python en 
 
 En cada carpeta se incluyen ejemplos y pequeños comentarios o notas propias sobre los conceptos aprendidos en ese bloque temático. El contenido actual incluye:
 
-- Sintaxis básica, tipos de datos, funciones y estructuras de datos.
-- Condicionales, bucles y generadores.
-- Excepciones, programación orientada a objetos, herencia y polimorfismo.
-- Cadenas de texto, módulos, paquetes y paquetes distribuibles.
-- Archivos, serialización de datos y serialización de objetos.
-- Interfaces gráficas con Tkinter.
-- Bases de datos SQLite, consultas y operaciones CRUD.
-- Retos prácticos clasificados por dificultad en `Ejercicios`.
+- **Fundamentos**: Sintaxis básica, tipos de datos, funciones y estructuras de datos (listas, tuplas, diccionarios).
+- **Control de flujo**: Condicionales (if/else), bucles (for/while) y generadores.
+- **Manejo de errores**: Excepciones y estrategias de captura y manejo.
+- **Programación Orientada a Objetos**: Clases, objetos, herencia, polimorfismo.
+- **Manipulación de texto**: Métodos y operaciones con cadenas de caracteres.
+- **Modularidad**: Creación de módulos, paquetes y paquetes distribuibles.
+- **Archivos y serialización**: Lectura/escritura de archivos, serialización de datos y objetos.
+- **Interfaces gráficas**: Aplicaciones con interfaz gráfica usando Tkinter.
+- **Bases de datos**: SQLite, consultas y operaciones CRUD.
+- **Funciones avanzadas**: Funciones lambda, métodos filter() y map().
+- **Expresiones regulares**: Patrones de búsqueda y validación con regex.
+- **Decoradores**: Decoradores y metaprogramación en Python.
+- **Documentación y pruebas**: Documentación de código, docstrings y testing.
+- **Ejercicios prácticos**: Retos de Codewars y ejercicios complementarios clasificados por dificultad.
 
 ---
 
